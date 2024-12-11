@@ -2,7 +2,7 @@
 
 -  🧠  I'm learning System Design and Scaling
   
-- 🤝  I'm open to collaborating on Web based projects especially MERN stack
+- 🤝  I'm open to collaborating on Web based projects especially MERN stack and Nextjs based 
 
 - 👨‍💻 All of my projects are available at [https://github.com/DawoodMehmood](https://github.com/DawoodMehmood)
 
