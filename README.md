@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DawoodMehmood](https://github.com/DawoodMehmood)
 
-- 📫 You can contact me at [dawoodmehmood52222@gmail.com](mailto:dawoodmehmood52222@gmail.com)
-
 - 📄 Wanna know about my experiences [https://www.linkedin.com/in/dawoodmehmood/](https://www.linkedin.com/in/dawoodmehmood/)
 
 
