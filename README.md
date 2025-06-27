@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm Dawood Mehmood </h1>
 
--  🧠  I'm learning System Design and Cloud Computing
+-  🧠  I'm learning and spending time on AI agents
   
 - 🤝  I'm open to collaborating on Web based projects especially MERN stack and Nextjs based 
 
