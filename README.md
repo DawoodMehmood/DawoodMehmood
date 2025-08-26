@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm Dawood Mehmood </h1>
+<h1>Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm Dawood Mehmood </h1>
 
 -  🧠  I'm learning System Design and AI Agents
   
@@ -30,3 +30,9 @@
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
+
+
+> <small>Like the gamified contribution graph? Create your own by following 3 simple steps → 
+<a href="https://github.com/DawoodMehmood/commits-breaker">DawoodMehmood/commits-breaker</a></small>
+
+
