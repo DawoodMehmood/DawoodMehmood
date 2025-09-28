@@ -1,22 +1,51 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=DawoodMehmood">
+
 <h1>Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm Dawood Mehmood </h1>
 
--  🧠  I'm learning System Design and AI Agents
+-  🧠  I'm learning Scalable System Design and Security First Development 
   
 - 🤝  I'm open to collaborating on Web based projects especially MERN stack and Nextjs based
 
 - 📩 Reach out to me at: [dawoodmehmood52222@gmail.com](dawoodmehmood52222@gmail.com)
 
-- 👨‍💻 All of my projects are available at: [https://github.com/DawoodMehmood](https://github.com/DawoodMehmood)
-
 - 📄 Wanna know about my experiences: [https://www.linkedin.com/in/dawoodmehmood/](https://www.linkedin.com/in/dawoodmehmood/)
 
 
-# 💻 Tech Stack:
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 💻 Languages, Frameworks & Tools:
 
- 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjavascript%2Cts%2Cpython%2Csolidity%2Creact%2Cnextjs%2Ctailwind%2Cbootstrap%2Cjquery%2Csass%2Cnodejs%2Cexpress%2Cnestjs%2Cflask%2Cfastapi%2Cmongodb%2Cmysql%2Cpostgres%2Cprisma%2Csequelize%2Cdocker%2Cfirebase%2Cgraphql%2Cpostman%2Cnpm%2Cyarn%2Cgit%2Caws&perline=15&theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjavascript%2Cts%2Cpython%2Csolidity%2Creact%2Cnextjs%2Ctailwind%2Cbootstrap%2Cjquery%2Csass%2Cnodejs%2Cexpress%2Cnestjs%2Cflask%2Cfastapi%2Cmongodb%2Cmysql%2Cpostgres%2Cprisma%2Csequelize%2Cdocker%2Cfirebase%2Cgraphql%2Cpostman%2Cnpm%2Cyarn%2Cgit%2Caws&perline=15&theme=light" />
+    <img src="https://skillicons.dev/icons?html%2Ccss%2Cjavascript%2Cts%2Cpython%2Csolidity%2Creact%2Cnextjs%2Ctailwind%2Cbootstrap%2Cjquery%2Csass%2Cnodejs%2Cexpress%2Cnestjs%2Cflask%2Cfastapi%2Cmongodb%2Cmysql%2Cpostgres%2Cprisma%2Csequelize%2Cdocker%2Cfirebase%2Cgraphql%2Cpostman%2Cnpm%2Cyarn%2Cgit%2Caws&perline=15&theme=light" alt="skills - 1" />
+</picture>
+
+
+
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DawoodMehmood&theme=dark&hide_border=false&include_all_commits=true)
+
+  <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=DawoodMehmood&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=DawoodMehmood&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10&border=61dafb" />
+        <img align="left" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DawoodMehmood&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10&border=61dafb" alt="Dawood Mehmood's streak stats" />
+  </picture>
+
+  <img align="right" src="https://github-readme-stats-salesp07.vercel.app/api?username=DawoodMehmood&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10&border_color=61dafb" alt="Dawood Mehmood's GitHub stats" />
+
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DawoodMehmood/DawoodMehmood/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/DawoodMehmood/DawoodMehmood/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/DawoodMehmood/DawoodMehmood/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</picture>
+
+> <small>Like the snake eating contribution graph? Create your own by following 3 simple steps → 
+<a href="https://github.com/DawoodMehmood/commits-eater">DawoodMehmood/commits-eater</a></small>
+
+
+<br/>
 
 
 <picture>
