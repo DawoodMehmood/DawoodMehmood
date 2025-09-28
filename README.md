@@ -24,15 +24,10 @@
 
 # 📊 GitHub Stats:
 
-  <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=DawoodMehmood&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=DawoodMehmood&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10&border=61dafb" />
-        <img align="left" width='49%' src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DawoodMehmood&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10&border=61dafb" alt="Dawood Mehmood's streak stats" />
-  </picture>
-
-  <img align="right" width='49%' src="https://github-readme-stats-salesp07.vercel.app/api?username=DawoodMehmood&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10&border_color=61dafb" alt="Dawood Mehmood's GitHub stats" />
-
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DawoodMehmood&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10&border=61dafb" alt="Dawood Mehmood's streak stats" width="49%"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=DawoodMehmood&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10&border_color=61dafb" alt="Dawood Mehmood's GitHub stats" width="49%"/>
+</div>
 
 
 <picture>
