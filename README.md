@@ -27,10 +27,10 @@
   <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=DawoodMehmood&theme=react&hide_border=true" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=DawoodMehmood&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10&border=61dafb" />
-        <img align="left" width='300px' src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DawoodMehmood&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10&border=61dafb" alt="Dawood Mehmood's streak stats" />
+        <img align="left" width='50%' src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DawoodMehmood&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10&border=61dafb" alt="Dawood Mehmood's streak stats" />
   </picture>
 
-  <img align="right" width='300px' src="https://github-readme-stats-salesp07.vercel.app/api?username=DawoodMehmood&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10&border_color=61dafb" alt="Dawood Mehmood's GitHub stats" />
+  <img align="right" width='50%' src="https://github-readme-stats-salesp07.vercel.app/api?username=DawoodMehmood&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10&border_color=61dafb" alt="Dawood Mehmood's GitHub stats" />
 
 
 
