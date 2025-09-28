@@ -31,9 +31,15 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DawoodMehmood/DawoodMehmood/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/DawoodMehmood/DawoodMehmood/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/DawoodMehmood/DawoodMehmood/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/github-contribution-grid-snake.svg"
+  />
+  <img alt="Snake Game" src="images/github-contribution-grid-snake.svg" />
 </picture>
 
 > <small>Like the snake eating contribution graph? Create your own by following 3 simple steps → 
